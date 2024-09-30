@@ -31,23 +31,23 @@ int main() {
     printf("Digite o nome do pais:\n");
     scanf("%s", &nome);
 
-    printf("Digite o codigo do pais:\n"):
+    printf("Digite o codigo do pais:\n");
     scanf("%d", &codigo);
 
     printf("Digite a quantidade de habitantes:\n");
     scanf("%d", &populacao);
 
-    print("Digite o PIB do pais:\n");
+    printf("Digite o PIB do pais:\n");
     scanf("%d", &pib);
 
     printf("Digite o tamanho da area do pais:\n");
     scanf("%f", &area);
 
-    printf("Digite quantos pontos turisticos tem:\n")
+    printf("Digite quantos pontos turisticos tem:\n");
     scanf("%d", &pontos_turisticos);
 
 
-    printf("Carta numero 1");
+    printf("\n\nCarta numero 1\n");
 
     printf("Nome do pais: %s\n", nome);
     printf("Codigo do pais: %d\n", codigo);
